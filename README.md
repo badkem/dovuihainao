@@ -1,6 +1,7 @@
 # Đố vui hại não Flutter example
 
 - A Flutter app using MVVM partten
+- Learning dart
 
 ## Preview
 
